@@ -1,0 +1,14 @@
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\obj\Debug\MainWindow.baml
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\obj\Debug\MainWindow.g.cs
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\obj\Debug\App.g.cs
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\obj\Debug\WPF_LEARNING_MarkupCompile.cache
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\obj\Debug\WPF_LEARNING.g.resources
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\obj\Debug\WPF_LEARNING.Properties.Resources.resources
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\obj\Debug\WPF_LEARNING.csproj.GenerateResource.cache
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\obj\Debug\WPF_LEARNING.csproj.CoreCompileInputs.cache
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\bin\Debug\WPF_LEARNING.exe.config
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\bin\Debug\WPF_LEARNING.exe
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\bin\Debug\WPF_LEARNING.pdb
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\obj\Debug\WPF_LEARNING.exe
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\obj\Debug\WPF_LEARNING.pdb
+C:\Users\wr\Source\Repos\Pages\WPF_LEARNING\obj\Debug\WPF_LEARNING.csprojAssemblyReference.cache

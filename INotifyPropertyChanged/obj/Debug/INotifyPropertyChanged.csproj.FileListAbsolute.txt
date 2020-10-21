@@ -1,0 +1,14 @@
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\bin\Debug\INotifyPropertyChanged.exe.config
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\bin\Debug\INotifyPropertyChanged.exe
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\bin\Debug\INotifyPropertyChanged.pdb
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\obj\Debug\MainWindow.baml
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\obj\Debug\MainWindow.g.cs
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\obj\Debug\App.g.cs
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\obj\Debug\INotifyPropertyChanged_MarkupCompile.cache
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\obj\Debug\INotifyPropertyChanged.g.resources
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\obj\Debug\INotifyPropertyChanged.Properties.Resources.resources
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\obj\Debug\INotifyPropertyChanged.csproj.GenerateResource.cache
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\obj\Debug\INotifyPropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\obj\Debug\INotifyPropertyChanged.exe
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\obj\Debug\INotifyPropertyChanged.pdb
+C:\Users\wr\Source\Repos\Pages\INotifyPropertyChanged\obj\Debug\INotifyPropertyChanged.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\bin\Debug\XAMLLEARNING.exe.config
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\bin\Debug\XAMLLEARNING.exe
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\bin\Debug\XAMLLEARNING.pdb
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\obj\Debug\MainWindow.g.cs
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\obj\Debug\App.g.cs
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\obj\Debug\XAMLLEARNING_MarkupCompile.cache
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\obj\Debug\XAMLLEARNING_MarkupCompile.lref
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\obj\Debug\MainWindow.baml
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\obj\Debug\XAMLLEARNING.g.resources
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\obj\Debug\XAMLLEARNING.Properties.Resources.resources
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\obj\Debug\XAMLLEARNING.csproj.GenerateResource.cache
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\obj\Debug\XAMLLEARNING.csproj.CoreCompileInputs.cache
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\obj\Debug\XAMLLEARNING.exe
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\obj\Debug\XAMLLEARNING.pdb
+C:\Users\wr\Source\Repos\Pages\XAMLLEARNING\obj\Debug\XAMLLEARNING.csprojAssemblyReference.cache

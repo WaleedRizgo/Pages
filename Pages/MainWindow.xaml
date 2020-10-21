@@ -1,0 +1,23 @@
+﻿<Window x:Class="Pages.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pages"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="400">
+    <Grid Margin="0,2,0,0">
+        <Canvas>
+            <Button Content="Canvas 1" MinWidth="100" Click="BtnClickP1" Canvas.Left="175" Canvas.Top="30"/>
+            <Button Content="Canvas 2" MinWidth="100" Click="BtnClickP2" Canvas.Left="285" Canvas.Top="30"/>
+            <Button Content="Contant Form" MinWidth="100" Click="BtnClickP3" Canvas.Left="180" Canvas.Top="5"/>
+            <Button Content="CheckBox" MinWidth="100" Click="BtnClickP4" Canvas.Left="285" Canvas.Top="5" Width="65" RenderTransformOrigin="0.2,0.75"/>
+            <Button Content="Radios" MinWidth="10" Click="BtnClickP5" Canvas.Left="110" Canvas.Top="5" Width="60"/>
+            <Button Content="Slider" MinWidth="10" Click="BtnClickP6" Canvas.Left="110" Canvas.Top="30" Width="59"/>
+            <Button Content="DockPanel" MinWidth="10" Click="BtnClickP7" Canvas.Left="30" Canvas.Top="5" Width="71"/>
+            <Button Content="Menu" MinWidth="10" Click="BtnClickP8" Canvas.Left="29" Canvas.Top="30" Width="71"/>
+           
+        </Canvas>
+        <Frame x:Name="Main" Margin="0,85,0,-26" />
+    </Grid>
+</Window>

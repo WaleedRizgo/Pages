@@ -1,0 +1,14 @@
+C:\Users\wr\Source\Repos\Pages\messagBox\bin\Debug\messagBox.exe.config
+C:\Users\wr\Source\Repos\Pages\messagBox\bin\Debug\messagBox.exe
+C:\Users\wr\Source\Repos\Pages\messagBox\bin\Debug\messagBox.pdb
+C:\Users\wr\Source\Repos\Pages\messagBox\obj\Debug\MainWindow.baml
+C:\Users\wr\Source\Repos\Pages\messagBox\obj\Debug\MainWindow.g.cs
+C:\Users\wr\Source\Repos\Pages\messagBox\obj\Debug\App.g.cs
+C:\Users\wr\Source\Repos\Pages\messagBox\obj\Debug\messagBox_MarkupCompile.cache
+C:\Users\wr\Source\Repos\Pages\messagBox\obj\Debug\messagBox.g.resources
+C:\Users\wr\Source\Repos\Pages\messagBox\obj\Debug\messagBox.Properties.Resources.resources
+C:\Users\wr\Source\Repos\Pages\messagBox\obj\Debug\messagBox.csproj.GenerateResource.cache
+C:\Users\wr\Source\Repos\Pages\messagBox\obj\Debug\messagBox.csproj.CoreCompileInputs.cache
+C:\Users\wr\Source\Repos\Pages\messagBox\obj\Debug\messagBox.exe
+C:\Users\wr\Source\Repos\Pages\messagBox\obj\Debug\messagBox.pdb
+C:\Users\wr\Source\Repos\Pages\messagBox\obj\Debug\messagBox.csprojAssemblyReference.cache
